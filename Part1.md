@@ -1,4 +1,4 @@
-# Blockchain Consensuses Comparison - Part 1: Ouroboros| Casper| Toda| Algorand
+# Blockchain Consensuses Comparison - Part 1: Ouroboros, Casper, Toda, Algorand
 
 ## Motivation
 Each month at least one new consensus (consensus protocols) is being introduced to community. There are a lot of reviews and analyses, but all of them do use not one methodology. It is difficult to compare consensuses without structured approach. I am proposing my vision (and of course comparison) how to analyze different consensuses.
@@ -29,11 +29,11 @@ I have tried to combine the most important aspects. Of course this list could be
 
 ### Resistance
 - **Nothing-at-Stake**
-- - incentives for nodes to vote on the correct block
+    - incentives for nodes to vote on the correct block
 - **Failure**
-- - ability to reach consensus
+    - ability to reach consensus
 - **Sybil** attacks
-- - a single adversary is controlling multiple nodes on a network
+    - a single adversary is controlling multiple nodes on a network
 
 ## Summary table
 Сombining all criteria into table and use color for cell background (protocol does not have information for) can help to see the drawbacks of consensuses.
