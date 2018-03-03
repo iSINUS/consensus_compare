@@ -56,4 +56,4 @@ I have tried to combine the most important aspects. Of course this list could be
 |How much is **transaction fee**?|||||
 |**Nothing-at-Stake** resistance|||||
 |**Failure** resistance|||||
-|**Sybil** attacks resistance||{class="notdefined"}|||
+|**Sybil** attacks resistance|||||

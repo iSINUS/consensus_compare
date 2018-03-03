@@ -34,6 +34,3 @@ I have tried to combine the most important aspects. Of course this list could be
     - ability to reach consensus
 - **Sybil** attacks
     - a single adversary is controlling multiple nodes on a network
-
-## Summary table
-Сombining all criteria into table and use color for cell background (protocol does not have information for) can help to see the drawbacks of consensuses.
